@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  *zyadelbehiry@gmail.com*
+  <a href="zyadelbehiry@gmail.com">zyadelbehiry@gmail.com </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
